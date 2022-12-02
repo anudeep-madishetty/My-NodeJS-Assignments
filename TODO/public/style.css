@@ -1,0 +1,27 @@
+header {
+  background-color: steelblue;
+  margin: 0;
+  font-size: 24px;
+  padding: 5px 10px;
+  color: white;
+}
+body {
+  margin: 0;
+}
+
+.todo {
+  display: flex;
+}
+input {
+  width: 50% !important;
+  display: inline-block !important;
+}
+
+p {
+  margin-right: 50px;
+}
+
+.complete {
+  background-color: green;
+  color: white;
+}
